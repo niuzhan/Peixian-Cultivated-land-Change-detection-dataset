@@ -6,4 +6,4 @@ This repository is for releasing a change detection dataset for high-resolution 
 
 The proposed dataset can be found at
 
-- [BaiduYun](https://pan.baidu.com/s/1U7IbkrPnBZMkJNdFd3eZ1g?pwd=5kol) password:5kol
+- [BaiduYun](https://pan.baidu.com/s/1U7IbkrPnBZMkJNdFd3eZ1g) password:5kol
